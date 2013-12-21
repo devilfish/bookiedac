@@ -13,3 +13,4 @@ The services DAC performs are predictable and automated. If you send a share to 
 
 How are DACs a company?
 DACs have costumers and shareholders. DACs can even reward workers for performing services needed by it.
+
